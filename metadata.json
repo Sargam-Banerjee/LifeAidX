@@ -1,0 +1,5 @@
+{
+  "name": "LifeAidX",
+  "description": "An intelligent emergency co-pilot providing real-time AI triage, fall detection, and hospital locating.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
